@@ -10,6 +10,12 @@ body
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
 }
+.backgroundImage
+{
+  background-image: url('./PortfolioBackround.jpg');
+  width: 200px;
+  height: 200px;
+}
 header
 {
   background-color: #c2c2c2;
